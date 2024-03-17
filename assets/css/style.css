@@ -120,6 +120,13 @@ body {
   margin-bottom: 10px;
   font-weight: 600;
 }
+.card_1 p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 7;
+  overflow: hidden;
+  padding: 0px 10px;
+}
 .f_head ul li {
   list-style: none;
   line-height: 30px;
